@@ -8,7 +8,7 @@
 
 ---
 
-## 📜 Project Descriptio
+## 📜 Project Description
 ** MSR (Maze Solving Robot)** is an autonomous robotic vehicle designed to navigate and solve complex mazes without human intervention. Developed using an Arduino Uno microcontroller, the robot uses three ultrasonic sensors for distance measurement and obstacle detection, and four geared DC motors controlled via an L298N motor driver for movement.
 
 The robot operates on a basic decision-making algorithm that analyzes real-time sensor data to determine the best path. It continuously scans for obstacles and chooses directions based on available paths, mimicking the behavior of intelligent agents. This project demonstrates the principles of embedded systems, sensor integration, motor control, and basic pathfinding algorithms such as the left-hand rule or right-hand rule.
